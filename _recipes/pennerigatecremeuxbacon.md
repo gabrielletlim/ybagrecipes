@@ -14,12 +14,19 @@ salty : ✓
 
 * `1 boîte (375 g)` penne rigate
 * `1 tasse` bacon, tranché finement
+* ` `
+* **POUR LA SAUCE**
+* ` `
 * `1 ½ tasse` crème à cuisson 15%
 * `½ tasse` bouillon de poulet
 * `1 paquet (125 g)` fromage de chèvre frais
 * `1 ½ tasse` tomates cerises multicolores, coupées en 2
 * `2 tasse` bébés épinards
 * Sel et poivre, au goût
+
+---
+
+> Porter un grand chaudron d’eau salée à ébullition, puis cuire les pâtes selon l’indication sur l’emballage. Égoutter et réserver.
 
 ---
 
