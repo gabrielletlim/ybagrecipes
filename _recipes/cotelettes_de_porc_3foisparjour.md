@@ -1,6 +1,6 @@
 ---
 title: Côtelettes de Porc, Sauce aux Tomates Séchées, Pommes & Pancetta
-category: Viande
+category: Porc
 description: Si t’aimes le porc à la moutarde, le porc aux pommes, le porc aux tomates séchées et le porc à la crème, tu vas capoter sur celui-là.
 image: cotelettes_de_porc_3foisparjour.jpg
 size: 4 servings
