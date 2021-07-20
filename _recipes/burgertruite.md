@@ -11,9 +11,9 @@ nutrition:
   - 346 calories
   - 27 g protéines
   - 16 g lipides
-  - 3.8 g glucides
-  - fibres
-  - sodium
+  - 22 g glucides
+  - 1 g fibres
+  - 368 mg sodium
 favorite: ✓
 meat : ✓
 salty : ✓
