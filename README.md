@@ -1,5 +1,7 @@
 # nyum
 
+Template Source : https://github.com/doersino/nyum
+
 *A simple Pandoc-powered static site generator for your recipe collection.*
 
 <img src="_assets/favicon.png" align="right" width="96">
