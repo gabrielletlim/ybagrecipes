@@ -2,7 +2,7 @@
 title: Pâtes à la Sauce Crémeuse aux Courges & au Gouda Fumé
 category: Pasta
 description: C’est la texture de la courge qui fait en sorte que la sauce est aussi riche, alors au final, on peut se dire que c’est plutôt santé comme recette malgré son apparence vraiment gourmande.
-image: pates-a-la-courge.jpg
+image: pates-a-la-courge.jpeg
 size: 4 servings
 time: 1h 20min
 author: Marilou - Trois Fois Par Jour
