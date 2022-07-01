@@ -1,6 +1,6 @@
 ---
 title: Salade de betteraves 
-category: Salade
+category: Salad
 description: Une entrée à la fois simple et raffinée qui vous fera voir la vie en rose!
 image: salade-betteraves.webp
 size: 4 servings
@@ -21,7 +21,7 @@ veggie : ✓
 * `4` bettraves cuites
 * `1` pomme rouge
 * `125 ml (½ tasse)` pacanes naturelles
-* `60 ml (¼ tass)` persil frais
+* `60 ml (¼ tasse)` persil frais
 * `125 ml (½ tasse)` canneberges séchées
 * `30 ml (2 c. à soupe)` vinaigre de cidre
 * `15 ml (1 c. à soupe)` huile végétale
