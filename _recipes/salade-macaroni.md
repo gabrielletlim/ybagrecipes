@@ -2,7 +2,7 @@
 title: Salade de macaroni 
 category: Salad
 description: La meilleure recette salade de macaroni style maman!
-image: salade-betteraves.webp
+image: salade-macaroni.avif
 size: 4 servings
 time: 30 min
 author: Chef Cuisto
