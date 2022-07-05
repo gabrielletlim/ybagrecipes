@@ -16,7 +16,6 @@ veggie : ✓
 * `1/2 tasse (125 ml)` poivron vert coupé en dés
 * `1/2 tasse (125 ml)` céleri coupé en dés
 * `1` oignon vert coupé finement
-* `1` oignon vert coupé finement
 * `1/2 tasse (125 ml)` carottes râpées
 * `1/2 tasse (125 ml)` mayonnaise
 * `1 cuillère à soupe` vinaigre de cidre de pommes
